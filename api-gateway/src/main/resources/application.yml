@@ -1,0 +1,16 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: cm-service
+          uri: lb://cm-service
+          predicates:
+            - Path=/api/cm-service/**
+          filters:
+            - StripPrefix=2
+        - id: qry-service
+          uri: lb://qry-service
+          predicates:
+            - Path=/api/qry-service/**
+          filters:
+            - StripPrefix=2
