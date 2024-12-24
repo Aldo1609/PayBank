@@ -5,7 +5,7 @@ Technologys used: Java, SpringBoot, Spring Cloud, SQLServer, Redis.
 
 Explanation Video: [Click me!](https://www.youtube.com/watch?v=o1Fd2FWumZo&list=PL-05q_VVK0ajxSZ66HZSd8Kvb5tYcD8My)
 
-![image](https://github.com/user-attachments/assets/7ba4f967-aeca-4e3f-aa58-b3f08893eeec)
+![Captura](https://github.com/user-attachments/assets/e54ea468-82b9-4cda-8d42-49531bba8492)
 
 ## EndPoints
 
